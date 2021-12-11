@@ -8,7 +8,7 @@ The researcher used R to build two predictive models. In the process of building
 
 2. How to use the project files
 
-You can directly download the R code source files and the dataset files by clicking CODE -> Download ZIP
+You can directly download the R code source files and the dataset files by clicking CODE -> Download ZIP.
 You can use the R code source files to build two predictive models based on the dataset files.
 The machine learning algorithm used for the initial build is simple linear regression because it is the most useful in showing the correlation between two quantitative variables. The machine learning algorithm used for the subsequent build is multiple linear regression because there are more than one predictor variable in the datasets.
 For model validation using R, the Leave-One-Out Cross-Validation approach was used because it can be automatically computed for any generalized linear model. The validation process is the continuation of each model build.
