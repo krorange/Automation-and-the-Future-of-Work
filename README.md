@@ -1,7 +1,7 @@
 # Automation and the Future of Work
 Author: Gyuri Kang
 
-1. Project Description
+<Project Description>
 Since the appearance of robot workers in the workplace, the labor market has been changing. Whether this is an opportunity for or a threat to human labor is controversial. In this regard, this project examines how automation will impact future job markets. Among all countries in the world, Republic of Korea (South Korea) has the highest ratio of robots to human workers. This indicates that Korea should take up the mission of setting an example for other countries by managing the risk of automation. However, compared to research on other nations, there is a remarkable lack of scholarly attention to the relationship between automation and the future of work in Korea. To contribute to the existing literature, the researcher analyzed two annual datasets on employment and robot adoption in Korea and built a predictive model based on the datasets. This project examines the potential relationship between robot adoption and labor market dynamics and ultimately aims at theorizing about future scenarios in the global job market.
 
 2. How to use the project files
