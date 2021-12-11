@@ -4,6 +4,7 @@ Author: Gyuri Kang
 1. Project Description
 
 Since the appearance of robot workers in the workplace, the labor market has been changing. Whether this is an opportunity for or a threat to human labor is controversial. In this regard, this project examines how automation will impact future job markets. Among all countries in the world, Republic of Korea (South Korea) has the highest ratio of robots to human workers. This indicates that Korea should take up the mission of setting an example for other countries by managing the risk of automation. However, compared to research on other nations, there is a remarkable lack of scholarly attention to the relationship between automation and the future of work in Korea. To contribute to the existing literature, the researcher analyzed two annual datasets on employment and robot adoption in Korea and built a predictive model based on the datasets. This project examines the potential relationship between robot adoption and labor market dynamics and ultimately aims at theorizing about future scenarios in the global job market.
+
 The researcher used R to build two predictive models. In the process of building the models, the datasets were split into the training set and the test set. The training set file includes the data of employed persons and operational stock of robots in social overhead capital and the data in household services. The test set file includes the data of employed persons and operational stock of robots in public services and the data in manufacturing.
 
 2. How to use the project files
