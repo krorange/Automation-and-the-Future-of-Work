@@ -12,12 +12,12 @@ You can directly download the R code source files and the dataset files by click
 You can use the R code source files to build two predictive models based on the dataset files.
 
 The machine learning algorithm used for the initial build is simple linear regression because it is the most useful in showing the correlation between two quantitative variables. The machine learning algorithm used for the subsequent build is multiple linear regression because there are more than one predictor variable in the datasets.
-  - regression.social.R: builds the initial model by using simple linear regression on the data of employed persons and operational stock of robots in the social overhead capital industry
-  - regression.complete.R: builds the subsequent model by using multiple linear regression on a complete dataset including both the training and test datasets
+  - regression_social.R: builds the initial model by using simple linear regression on the data of employed persons and operational stock of robots in the social overhead capital industry
+  - regression_complete.R: builds the subsequent model by using multiple linear regression on a complete dataset including both the training and test datasets
 
 For model validation using R, the Leave-One-Out Cross-Validation approach was used because it can be automatically computed for any generalized linear model. The validation process is the continuation of each model build.
-  - LOOCV.social.R: uses the Leave-One-Out Cross-Validation approach on the initial model
-  - LOOCV.complete.R: uses the Leave-One-Out Cross-Validation approach on the subsequent model
+  - LOOCV_social.R: uses the Leave-One-Out Cross-Validation approach on the initial model
+  - LOOCV_complete.R: uses the Leave-One-Out Cross-Validation approach on the subsequent model
 
 3. Conclusion
 
